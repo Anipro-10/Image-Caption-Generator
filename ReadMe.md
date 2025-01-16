@@ -117,10 +117,4 @@ print("BLEU-2: %f" % corpus_bleu(actual, predicted, weights=(0.5, 0.5, 0, 0)))
 2. Caption → Tokenization → Sequence
 3. Combined Features → LSTM → Generated Caption
 
-## Improvements
 
-Potential enhancements:
-- Implement attention mechanisms
-- Use more advanced architectures
-- Train on larger datasets
-- Add beam search for caption generation
