@@ -102,8 +102,8 @@ generate_caption('image.jpg')
 ## Results
 
 The model is evaluated using:
-- BLEU-1 score for individual word accuracy
-- BLEU-2 score for phrase accuracy
+- BLEU-1 score for individual word accuracy: 0.52
+- BLEU-2 score for phrase accuracy: 0.29
 
 Example output:
 ```python
