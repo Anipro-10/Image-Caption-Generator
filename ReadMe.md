@@ -117,4 +117,7 @@ print("BLEU-2: %f" % corpus_bleu(actual, predicted, weights=(0.5, 0.5, 0, 0)))
 2. Caption → Tokenization → Sequence
 3. Combined Features → LSTM → Generated Caption
 
+## Dataset
+- Dataset used is available in Kaggle: flickr8k
+
 
